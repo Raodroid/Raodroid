@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hey, I'm Rao 👋
 
-<!--
-**Raodroid/Raodroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics & Data Science student  
+Interested in using data and technology to improve decision-making
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+- 🎓 Studying **Economics and Data Science**
+- 📊 Focused on **data analysis, applied economics, and product insights**
+- 💻 Exploring **data-driven applications and modern analytical tools**
+- 🌏 Currently on exchange and gaining international exposure
+
+---
+
+### Skills
+- **Data**: Python, pandas, statistics  
+- **Economics**: Microeconomics, applied analysis, data interpretation  
+- **Tech**: Git, GitHub, basic web development  
+- **Tools**: Jupyter, VS Code
+
+---
+
+### Projects
+- 📈 Data analysis projects (cleaning, visualization, insights)
+- 🧪 Survey and data collection experiments
+- 🛠️ Small tools and scripts for learning and experimentation
+
+---
+
+### Interests
+- Data Analysis in Economics  
+- Data Science and Artificial Intelligence
+- Building simple systems that solves complex problems 
+
+---
+
+> *Always learning.*
