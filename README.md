@@ -1,4 +1,4 @@
-## Hey, I'm Rao 👋
+## Welcome to my page!
 
 Economics & Data Science student  
 Interested in using data and technology to improve decision-making
