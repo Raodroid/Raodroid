@@ -2,17 +2,22 @@ name: Update README Activity
 on:
   schedule:
     - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update activity
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          fetch-depth: 0  # Important: fetches all history
+          
+      - name: Update activity in README
+        uses: JasonEtco/activity-box@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'docs: update activity in README'
-          MAX_LINES: 8
+          max_lines: 10
