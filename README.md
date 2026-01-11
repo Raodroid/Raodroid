@@ -1,6 +1,6 @@
 # Welcome to my page!
 
-**Economics & Data Science Student** | Data Analyst in Training  
+**Economics & Data Science Student** | 
 *Using data and technology to improve decision-making and solve real-world problems*
 
 ---
