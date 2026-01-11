@@ -57,13 +57,6 @@ I'm a passionate Economics and Data Science student focused on bridging quantita
 
 </div>
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section auto-updates with recent GitHub activity -->
-<!--END_SECTION:activity-->
-
-
 ---
 
 > **"The goal is to turn data into information, and information into insight."** – Carly Fiorina
