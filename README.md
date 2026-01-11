@@ -27,7 +27,6 @@ I'm a passionate Economics and Data Science student focused on bridging quantita
 ### **Econometrics & Statistics**
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1E1156?style=for-the-badge)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-8C1D40?style=for-the-badge)
 
 ### **Databases & Tools**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +35,6 @@ I'm a passionate Economics and Data Science student focused on bridging quantita
 
 ### **Web & Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
