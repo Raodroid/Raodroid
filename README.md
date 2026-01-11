@@ -1,6 +1,7 @@
 # Welcome to my page!
 
-**Economics & Data Science Student** | 
+**Economics & Data Science Student** | **Aspiring Data Scientist**
+
 *Using data and technology to improve decision-making and solve real-world problems*
 
 ---
