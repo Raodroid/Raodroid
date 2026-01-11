@@ -1,23 +1,35 @@
 name: Update README Activity
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    - cron: '0 */12 * * *'  # Every 12 hours (more reliable)
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Important: fetches all history
+          fetch-depth: 0
           
       - name: Update activity in README
         uses: JasonEtco/activity-box@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          max_lines: 10
+          max_lines: 8
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update activity"
+          git push
