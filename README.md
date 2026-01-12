@@ -40,20 +40,9 @@ I'm a passionate Economics and Data Science student focused on bridging quantita
 
 ---
 
-## 📁 Featured Projects
-
-### [📈 Impact of Oil Prices on Canada's Economy](https://github.com/Raodroid/Canada-Economy-Research)
-*Interactive dashboard for tracking and visualizing key economic metrics*
-- **Tech**: Python, Pandas,
-- **Features**: Real-time data, forecasting models, export functionality
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-| **📈 Contribution Graph** |
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raodroid&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="100%"> |
 
 </div>
